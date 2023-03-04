@@ -32,4 +32,14 @@
 ### Project Summery
 
 Instagram application RESTAPI Application in this you can Store a User and their post in your database,also get all user data also post data.And You can get a all post By user Id.In this application am implements ManyToOne Mapping with post and user.user can have many posts.You can go through my code.
+
+
+### Images 
+  * Get User By Id:
+![image](https://user-images.githubusercontent.com/98683881/222886562-3b349f39-9995-45fc-b0ac-bdcdcebffcb9.png)
+
+  * Create a User:
+![image](https://user-images.githubusercontent.com/98683881/222886659-953b8361-cd4c-4515-9282-fe3ff73a3aa1.png)
+
+
  
