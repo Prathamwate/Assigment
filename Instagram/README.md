@@ -41,5 +41,12 @@ Instagram application RESTAPI Application in this you can Store a User and their
   * Create a User:
 ![image](https://user-images.githubusercontent.com/98683881/222886659-953b8361-cd4c-4515-9282-fe3ff73a3aa1.png)
 
+ * Get Post By userId
+ ![image](https://user-images.githubusercontent.com/98683881/222886781-e311d125-5a1b-4cf0-8bfd-c32e7ac3b317.png)
+
+ * Save the Post
+ ![image](https://user-images.githubusercontent.com/98683881/222886978-346b7403-faf9-4122-a424-4840ad11fb61.png)
+
+
 
  
